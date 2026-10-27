@@ -1,0 +1,23 @@
+name: xnot_vpn
+description: Xnot VPN - modern Android VPN client and authorized backend integration foundation.
+publish_to: "none"
+version: 3.0.0+3
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.5.3
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

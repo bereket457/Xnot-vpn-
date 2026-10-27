@@ -1,0 +1,4 @@
+# Copy this file to android/local.properties and set your local paths.
+# Flutter SDK path is required by the Flutter Gradle plugin.
+flutter.sdk=/PATH/TO/flutter
+sdk.dir=/PATH/TO/Android/Sdk

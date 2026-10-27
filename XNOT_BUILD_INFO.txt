@@ -1,0 +1,3 @@
+Xnot VPN Final - WireGuard-only authorized VPN client
+Generated from the uploaded Xnot_VPN_Real_WireGuard_Integrated.zip
+Real traffic requires a reachable authorized WireGuard server and valid client credentials.
